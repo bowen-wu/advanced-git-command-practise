@@ -1,6 +1,6 @@
 # advanced-git-command-practise
 
-AAD
+AAA
 
 BBB
 
